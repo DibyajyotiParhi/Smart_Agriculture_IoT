@@ -13,24 +13,24 @@ Features :
 
 Components :
 
-1.Raspberry Pi Pico W board
-2.Relay
-3.12V water pump
-4.OLED display
-5.Buzzer
-6.Plastic pipe network
-7.Small plastic jar for water storage
+- Raspberry Pi Pico W board
+- Relay
+- 12V water pump
+- OLED display
+- Buzzer
+- Plastic pipe network
+- Small plastic jar for water storage
 
 Setup :
 
-1.Connect the components according to the provided circuit diagram.
-2.Install the necessary libraries and dependencies.
-3.Upload the code to the Raspberry Pi Pico W board.
-4.Download and configure the Blynk app for remote monitoring and control.
+- Connect the components according to the provided circuit diagram.
+- Install the necessary libraries and dependencies.
+- Upload the code to the Raspberry Pi Pico W board.
+- Download and configure the Blynk app for remote monitoring and control.
 
 Usage :
 
-1.Power on the system using a 12V DC power supply.
-2.Monitor soil moisture levels on the OLED display or through the Blynk app.
-3.Take timely action based on alerts received from the buzzer or app notifications.
-4.Enjoy efficient and smart crop irrigation management.
+- Power on the system using a 12V DC power supply.
+- Monitor soil moisture levels on the OLED display or through the Blynk app.
+- Take timely action based on alerts received from the buzzer or app notifications.
+- Enjoy efficient and smart crop irrigation management.
